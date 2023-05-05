@@ -1,15 +1,5 @@
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.4 h1:Ow4GU/28uiuODAtmey+KPrIYD1aHUg53Lvj10uB/oEM=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.4/go.mod h1:es3jty61MArxToK9bDGGgh5Z/xFlIfBvldCmcb2yuH0=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.5 h1:SOJHH5Ljp6IVX+RzMrnsXXM4L4wja9lfM78YlfgLpv0=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.5/go.mod h1:es3jty61MArxToK9bDGGgh5Z/xFlIfBvldCmcb2yuH0=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.6 h1:ziehDQTAgFrWzIkScGSl/QsjU9eBW+4PzOBshRKodsE=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.6/go.mod h1:es3jty61MArxToK9bDGGgh5Z/xFlIfBvldCmcb2yuH0=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.7 h1:Upthd83sKeEPKw6oGRNqcQxTDnTNEtx/aeesiGYMmzA=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.7/go.mod h1:4drerLi9nAYIAkwPNdDId4IMv7w9Vo4dTZ5zO/WgDpU=
 dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.8 h1:/aHDQ/l3E4b89ykk6SGHMMk/lVt8VF45ADHQ81ezTx4=
 dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.8/go.mod h1:K2jbTb/ylJ6TFfTMYyLLcvMp+zBWBlCYKUXlUugofOc=
-github.com/YifeWu/gologger v1.0.1 h1:LbiJyZnuD1BnWfPVAFfo2L2nOEnbB8XYgqHNvu0e8KA=
-github.com/YifeWu/gologger v1.0.1/go.mod h1:RXzEdJyWksFxeqPbJn7GjfMPzMKSby7MeasPeVUFBhM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
@@ -24,6 +14,7 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/objx v0.4.0/go.mod h1:YvHI0jy2hoMjB+UWwv71VJQ9isScKT/TqJzVSSt89Yw=
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO+kdMU+MU=
+go.uber.org/goleak v1.2.1 h1:NBol2c7O1ZokfZ0LEU9K6Whx/KnwvepVetCUhtKja4A=
 go.uber.org/goleak v1.2.1/go.mod h1:qlT2yGI9QafXHhZZLxlSuNsMw3FFLxBr+tBRlmO1xH4=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
