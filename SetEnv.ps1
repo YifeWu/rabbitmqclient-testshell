@@ -1,0 +1,1 @@
+[System.Environment]::SetEnvironmentVariable("GOPRIVATE", "dev.azure.com/slb1-swt", "Machine")
