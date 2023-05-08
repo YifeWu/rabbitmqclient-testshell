@@ -1,5 +1,5 @@
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.8 h1:/aHDQ/l3E4b89ykk6SGHMMk/lVt8VF45ADHQ81ezTx4=
-dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git v0.1.8/go.mod h1:K2jbTb/ylJ6TFfTMYyLLcvMp+zBWBlCYKUXlUugofOc=
+dev.azure.com/slb1-swt/wireline-automation/_git/lib-go.git v0.1.10 h1:rd3gnQFMI1CnobHaH+phPl1wR3c4LtySKywHRKiO0ys=
+dev.azure.com/slb1-swt/wireline-automation/_git/lib-go.git v0.1.10/go.mod h1:Vy+4YQPZFI6xyk4MqJm580FqSWSFExlUbswAfIf/X88=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=

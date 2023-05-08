@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	rabbitmqclient "dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface.git/rabbitmqclient"
+	rabbitmqclient "dev.azure.com/slb1-swt/wireline-automation/_git/lib-go.git/rabbitmqclient"
 )
 
 type MySubscriber struct {

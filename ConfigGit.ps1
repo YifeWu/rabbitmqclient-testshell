@@ -8,16 +8,16 @@ Write-Output $B64Pat
 
 git config --global --unset http.extraHeader
 
-git -c http.extraHeader="Authorization: Basic $B64Pat" ls-remote https://dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface
-# git -c http.extraHeader="Authorization: Basic $B64Pat" clone https://dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface
+git -c http.extraHeader="Authorization: Basic $B64Pat" ls-remote https://dev.azure.com/slb1-swt/wireline-automation/_git/lib-go
+# git -c http.extraHeader="Authorization: Basic $B64Pat" clone https://dev.azure.com/slb1-swt/wireline-automation/_git/lib-go
 
 
 
-# git clone https://slb1-swt@dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface
-# git clone https://         dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface
+# git clone https://slb1-swt@dev.azure.com/slb1-swt/wireline-automation/_git/lib-go
+# git clone https://         dev.azure.com/slb1-swt/wireline-automation/_git/lib-go
 
 
-# git ls-remote https://slb1-swt@dev.azure.com/slb1-swt/wireline-automation/_git/dev-pdp-maxwell-interface
+# git ls-remote https://slb1-swt@dev.azure.com/slb1-swt/wireline-automation/_git/lib-go
 
 
 
